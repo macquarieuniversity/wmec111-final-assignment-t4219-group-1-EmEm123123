@@ -6237,7 +6237,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 277248663}
   m_LocalRotation: {x: 0.12774917, y: 0.8373046, z: 0.038638115, w: -0.5301964}
-  m_LocalPosition: {x: 21.957, y: 5.193001, z: 4.7309875}
+  m_LocalPosition: {x: 23.2, y: 4.7, z: 1.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 368264810}
@@ -24146,7 +24146,7 @@ GameObject:
   - component: {fileID: 880581614}
   - component: {fileID: 880581617}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Ground Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40626,7 +40626,7 @@ Light:
   m_Type: 2
   m_Color: {r: 0.09433961, g: 0.08677464, b: 0.08677464, a: 1}
   m_Intensity: 10
-  m_Range: 100
+  m_Range: 13.224731
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
@@ -44761,7 +44761,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1190858791}
   m_LocalRotation: {x: -0, y: -0.70201683, z: -0, w: 0.7121604}
-  m_LocalPosition: {x: 327.84, y: 24.35, z: 284.13}
+  m_LocalPosition: {x: 305.17, y: 24.35, z: 284.46}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 566238087}
@@ -54500,7 +54500,7 @@ GameObject:
   - component: {fileID: 1350736788}
   - component: {fileID: 1350736787}
   m_Layer: 0
-  m_Name: Big Wall
+  m_Name: Wall 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -54867,8 +54867,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1350736786}
   m_LocalRotation: {x: -0.5153528, y: -0.5059802, z: -0.4790407, w: -0.49891442}
-  m_LocalPosition: {x: 306.62, y: 26.94, z: 279.59}
-  m_LocalScale: {x: 1.1528083, y: 1.6406816, z: 1}
+  m_LocalPosition: {x: 306.6, y: 21.09, z: 279.7}
+  m_LocalScale: {x: 0.36460012, y: 1.6406816, z: 1}
   m_Children:
   - {fileID: 1500166137}
   - {fileID: 108944245}
